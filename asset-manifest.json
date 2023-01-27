@@ -1,13 +1,29 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.e37d75e8.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.e37d75e8.js.map": "/react-homework-template/static/js/main.e37d75e8.js.map"
+    "main.css": "/task-manager-with-login/static/css/main.02cd7820.css",
+    "main.js": "/task-manager-with-login/static/js/main.faeec7f8.js",
+    "static/js/513.a37abe84.chunk.js": "/task-manager-with-login/static/js/513.a37abe84.chunk.js",
+    "static/css/271.f6063dd8.chunk.css": "/task-manager-with-login/static/css/271.f6063dd8.chunk.css",
+    "static/js/271.fd4d4a4e.chunk.js": "/task-manager-with-login/static/js/271.fd4d4a4e.chunk.js",
+    "static/css/897.0f382bcf.chunk.css": "/task-manager-with-login/static/css/897.0f382bcf.chunk.css",
+    "static/js/897.ae034694.chunk.js": "/task-manager-with-login/static/js/897.ae034694.chunk.js",
+    "static/css/417.2b8b0e01.chunk.css": "/task-manager-with-login/static/css/417.2b8b0e01.chunk.css",
+    "static/js/417.295b1b14.chunk.js": "/task-manager-with-login/static/js/417.295b1b14.chunk.js",
+    "static/js/270.58a7ff38.chunk.js": "/task-manager-with-login/static/js/270.58a7ff38.chunk.js",
+    "index.html": "/task-manager-with-login/index.html",
+    "main.02cd7820.css.map": "/task-manager-with-login/static/css/main.02cd7820.css.map",
+    "main.faeec7f8.js.map": "/task-manager-with-login/static/js/main.faeec7f8.js.map",
+    "513.a37abe84.chunk.js.map": "/task-manager-with-login/static/js/513.a37abe84.chunk.js.map",
+    "271.f6063dd8.chunk.css.map": "/task-manager-with-login/static/css/271.f6063dd8.chunk.css.map",
+    "271.fd4d4a4e.chunk.js.map": "/task-manager-with-login/static/js/271.fd4d4a4e.chunk.js.map",
+    "897.0f382bcf.chunk.css.map": "/task-manager-with-login/static/css/897.0f382bcf.chunk.css.map",
+    "897.ae034694.chunk.js.map": "/task-manager-with-login/static/js/897.ae034694.chunk.js.map",
+    "417.2b8b0e01.chunk.css.map": "/task-manager-with-login/static/css/417.2b8b0e01.chunk.css.map",
+    "417.295b1b14.chunk.js.map": "/task-manager-with-login/static/js/417.295b1b14.chunk.js.map",
+    "270.58a7ff38.chunk.js.map": "/task-manager-with-login/static/js/270.58a7ff38.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.e37d75e8.js"
+    "static/css/main.02cd7820.css",
+    "static/js/main.faeec7f8.js"
   ]
 }
